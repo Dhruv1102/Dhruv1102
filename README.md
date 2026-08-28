@@ -2,11 +2,7 @@
 🔭 Currently building: Skills, ideas & real-world experience<br>🤝 Looking to collaborate: Business & creative projects<br>💡 Looking for help with: Turning ideas into practical solutions<br>🌱 Currently learning: Business Analysis • Strategy • Technology<br>💬 Ask me about: Business • Leadership • Excel • Life as a learner<br>⚡ Fun fact: I’m always curious about what I can learn next
 <br/><br/><br/>
 <a href="https://buymeacoffee.com/Dhruv1102">
-  <img 
-    src="https://img.shields.io/badge/🍵%20Buy%20Me%20a%20Tea-ff0000?style=for-the-badge&logoColor=white"
-    width="250"
-    style="border: 5px solid white; border-radius: 5px;"
-  >
+  <img src="https://img.shields.io/badge/🍵%20Buy%20Me%20a%20Tea-ff0000?style=for-the-badge&labelColor=ff0000&logoColor=white" width="250">
 </a>
 
 ## 🌐 Socials:
