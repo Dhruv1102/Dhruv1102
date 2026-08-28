@@ -2,24 +2,8 @@
 🔭 Currently building: Skills, ideas & real-world experience<br>🤝 Looking to collaborate: Business & creative projects<br>💡 Looking for help with: Turning ideas into practical solutions<br>🌱 Currently learning: Business Analysis • Strategy • Technology<br>💬 Ask me about: Business • Leadership • Excel • Life as a learner<br>⚡ Fun fact: I’m always curious about what I can learn next
 <br/><br/><br/>
 <a href="https://buymeacoffee.com/Dhruv1102">
-  <svg width="250" height="60" viewBox="0 0 250 60" xmlns="http://www.w3.org/2000/svg">
-    <rect x="2.5" y="2.5" width="245" height="55"
-          rx="10" ry="10"
-          fill="#ff0000"
-          stroke="white"
-          stroke-width="5"/>
-    <text x="125" y="39"
-          text-anchor="middle"
-          fill="white"
-          font-size="23"
-          font-family="cursive"
-          font-style="italic"
-          font-weight="bold">
-      🍵 Buy Me a Tea
-    </text>
-  </svg>
+  <img src="./buy-me-a-tea.svg" width="250" alt="Buy Me a Tea">
 </a>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/choudhary_chronicles09/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruv-choudhary-041715270/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:choudharydhruv285@gmail.com) 
 
