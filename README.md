@@ -1,160 +1,24 @@
-# 👋 Hey, I'm Dhruv Choudhary
+# 💫 About Me:
+🔭 Currently building: Skills, ideas & real-world experience<br>🤝 Looking to collaborate: Business & creative projects<br>💡 Looking for help with: Turning ideas into practical solutions<br>🌱 Currently learning: Business Analysis • Strategy • Technology<br>💬 Ask me about: Business • Leadership • Excel • Life as a learner<br>⚡ Fun fact: I’m always curious about what I can learn next
 
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Business+%26+Management+Enthusiast;Always+Learning+%26+Building;Turning+Ideas+Into+Impact+%F0%9F%9A%80" alt="Typing SVG" />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<a href="https://www.linkedin.com/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
-`</a>`{=html} `<a href="mailto:choudharydhruv285@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/choudhary_chronicles09/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruv-choudhary-041715270/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:choudharydhruv285@gmail.com) 
 
-## 🧑‍💻 About Me
+# 💻 Tech Stack:
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Dhruv1102&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Dhruv1102&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dhruv1102&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-I'm a **Bachelor of Commerce graduate** with a strong interest in
-business, management, analysis, and continuous learning.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Dhruv1102&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-I enjoy working with people, solving problems, exploring new
-technologies, and turning ideas into practical outcomes. I bring a
-positive mindset, strong communication, creativity, teamwork, and
-leadership to the projects I work on.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Dhruv1102&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-> **"Learn. Build. Improve. Repeat."**
+---
+[![](https://komarev.com/ghpvc/?username=Dhruv1102&icon=0&color=0)](https://visitcount.itsvg.in)
 
-------------------------------------------------------------------------
-
-## 🛠️ Skills
-
-### 💼 Business & Professional
-
--   📊 Business Analysis
--   ⚙️ Process Management
--   📈 Investment & Risk Management
--   👑 Leadership
--   🤝 Teamwork
--   💬 Communication
--   🎨 Creativity
-
-### 🧰 Tools
-
--   Microsoft Excel
--   Microsoft Word
--   Microsoft PowerPoint
-
-------------------------------------------------------------------------
-
-## 🎓 Education
-
-  Qualification               Institution                           Year
-  --------------------------- ----------------------------------- ------
-  **Bachelor of Commerce**    IIMT College of Management (CCSU)     2025
-  **Class 12 --- Commerce**   Kendriya Vidyalaya (CBSE), Noida      2022
-  **Class 10**                Kendriya Vidyalaya (CBSE), Noida      2020
-
-**B.Com CGPA:** 5.94\
-**Class 12:** 65%\
-**Class 10:** 67%
-
-------------------------------------------------------------------------
-
-## 📜 Certifications
-
--   📌 Business Analysis and Process Management
--   📌 Investment Risk Management
--   📌 Digital Leadership in Business
-
-------------------------------------------------------------------------
-
-## 🌱 Currently Learning
-
-``` text
-Business Analysis     ███████████████░░░░░  75%
-Process Management    ██████████████░░░░░░  70%
-Excel                 ████████████████░░░░  80%
-Business Strategy     █████████████░░░░░░░  65%
-Technology            ████████████░░░░░░░░  60%
-```
-
-------------------------------------------------------------------------
-
-## 🚀 What I Bring
-
-✨ **Adaptability** --- Comfortable learning new concepts and
-technologies.
-
-🧠 **Problem Solving** --- Focused on practical and efficient solutions.
-
-🤝 **Collaboration** --- Strong believer in teamwork and clear
-communication.
-
-📚 **Continuous Learning** --- Always looking for the next skill or idea
-to explore.
-
-🎯 **Execution** --- Focused on turning plans into meaningful results.
-
-------------------------------------------------------------------------
-
-## 📊 GitHub Stats
-
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>`{=html}
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## 🌐 Connect With Me
-
-```{=html}
-<p align="center">
-```
-`<a href="https://www.linkedin.com/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}
-`</a>`{=html} `<a href="mailto:choudharydhruv285@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-```{=html}
-<p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=38BDF8" alt="Profile Views"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<b>`{=html}Thanks for visiting my profile! ⭐`</b>`{=html}
-`<br/>`{=html} Let's connect, collaborate, and build something
-meaningful.
-```{=html}
-</p>
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
