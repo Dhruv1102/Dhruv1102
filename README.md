@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Currently building: Skills, ideas & real-world experience<br>🤝 Looking to collaborate: Business & creative projects<br>💡 Looking for help with: Turning ideas into practical solutions<br>🌱 Currently learning: Business Analysis • Strategy • Technology<br>💬 Ask me about: Business • Leadership • Excel • Life as a learner<br>⚡ Fun fact: I’m always curious about what I can learn next
 <br/><br/><br/>
-<img src="https://img.shields.io/badge/🍵%20Buy%20Me%20a%20Tea-ff0000?style=for-the-badge&font-family=Dancing%20Script" width="300">
+<img src="https://img.shields.io/badge/🍵%20Buy%20Me%20a%20Tea-ff0000?style=for-the-badge&font-family=Dancing%20Script" width="260">
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/choudhary_chronicles09/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruv-choudhary-041715270/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:choudharydhruv285@gmail.com) 
 
